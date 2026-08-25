@@ -1,0 +1,6 @@
+name: subscription-churn-risk-intelligence
+services:
+  api:
+    project: .
+    language: py
+    host: containerapp
